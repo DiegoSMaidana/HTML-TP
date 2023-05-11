@@ -1,0 +1,93 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    margin: 0px;
+    background-color:#6ec6e0;
+    color: #000000;
+}
+
+header{
+    padding: 0px;
+    width: 100%;
+    background-color: #ffffff;
+    display: table;
+}
+img{
+    border-radius: 10%;
+}
+h2{
+    color:rgb(3, 195, 253);
+    font-size: 20px;
+}
+h3{
+    color:rgb(3, 195, 253);
+    font-size: 50px;
+    text-align: center;
+}
+#Foto-inicio{
+    height: 350px;
+    height: 350px;
+    border-radius: 5px;
+    align-items: center;
+}
+.menu{
+    width: 900px;
+    margin: 0 auto;
+}
+#logo{
+    border-radius: 80%;
+}
+main{
+    padding: 0px;
+    margin: auto;
+    max-width: 700px;
+}
+nav{
+    float: right;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 75px;
+    padding:25px 0;
+    float: left;
+}
+#descripcion{
+    background-color: #ffffff;
+    padding: 5px;
+    margin: 10px;
+}
+#ServiciosMedicos{
+    background-color: #ffffff;
+    padding: 5px;
+    margin: 10px;
+}
+#profesionales{
+    background-color: #ffffff;
+    padding: 10 px;
+    margin: 10px;
+    margin-top: 5px;
+}
+#turnos{
+    background-color: #ffffff;
+    padding: 5px;
+    margin: 10px;
+
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    padding: 5px;
+    text-align: center;
+}
+ol{
+    text-align:justify;
+    float: left;
+    list-style: none;
+    padding: 5px;
+}
+
